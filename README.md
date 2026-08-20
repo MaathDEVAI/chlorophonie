@@ -9,6 +9,10 @@ suit l’heure du jardin (l’aube est lydienne, la nuit éolienne). Les
 pollinisateurs croisent les génomes et laissent tomber des graines hybrides ;
 chaque espèce inédite est décrite d’une planche dans l’Herbier.
 
+## Jouer en ligne
+
+**https://maathdevai.github.io/chlorophonie/** — dépôt : https://github.com/MaathDEVAI/chlorophonie
+
 ## Lancer le jardin
 
 ```sh
