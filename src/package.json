@@ -1,0 +1,6 @@
+{
+  "name": "chlorophonie-src",
+  "private": true,
+  "type": "module",
+  "description": "Marqueur ESM pour Node (tests et vérification syntaxe). Le navigateur ne lit pas ce fichier."
+}
